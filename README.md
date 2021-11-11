@@ -25,4 +25,4 @@
 	$Hasil=New Hasil(80);
 	$Hasil->Total();
 	
-?> 
+?>
