@@ -12,7 +12,7 @@
 
 		public function Total(){
 			$Total=$this->Nilai+350;
-			echo "<br/><b>Nilai ditambah 6 pelajaran = $Total </b><br/>";
+			echo "<br/><b>Hasil dari Nilai yang ditambah 6 pelajaran = $Total </b><br/>";
 		}
 		
 
